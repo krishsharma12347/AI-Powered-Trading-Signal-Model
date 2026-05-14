@@ -4,9 +4,9 @@ import requests
 # TELEGRAM SETTINGS
 # =========================
 
-BOT_TOKEN = "8600510277:AAFqMZzSjSUz89r0X6tx3YO4n03UDpfth5Q"
+BOT_TOKEN = ""
 
-CHAT_ID = "7276210017"
+CHAT_ID = ""
 
 # =========================
 # TEST MESSAGE
