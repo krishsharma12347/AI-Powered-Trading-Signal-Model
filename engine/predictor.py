@@ -38,9 +38,9 @@ LOG_FILE = os.path.join(
 # TELEGRAM SETTINGS
 # =========================
 
-BOT_TOKEN = "8600510277:AAFqMZzSjSUz89r0X6tx3YO4n03UDpfth5Q"
+BOT_TOKEN = "Your_bot_key"
 
-CHAT_ID = "7276210017"
+CHAT_ID = ""
 
 # =========================
 # CONFIDENCE SETTINGS
